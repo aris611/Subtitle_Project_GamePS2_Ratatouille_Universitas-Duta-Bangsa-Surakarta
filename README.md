@@ -1,0 +1,2 @@
+# Subtitle_Project_GamePS2_Ratatouille_Universitas-Duta-Bangsa-Surakarta
+This project is an Indonesian subtitle translation patch for the PlayStation 2 game Ratatouille, developed as an academic translation and localization project by students of Universitas Duta Bangsa Surakarta. It is intended to support learning, research, and portfolio development in the field of translation studies and game localization. 
